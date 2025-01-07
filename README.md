@@ -1,5 +1,1 @@
-# br_multiJobs
-
-A simple multi job script
-
-# Check out the [documentation](https://documentation.brodino.net/br_multiJobs)
+# DEPRECATED, USE https://github.com/Brodino96/br_tags
